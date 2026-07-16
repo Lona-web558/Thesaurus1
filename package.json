@@ -1,0 +1,13 @@
+{
+  "name": "thesaurus-app",
+  "version": "1.0.0",
+  "description": "Express HTML5 Thesaurus",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
